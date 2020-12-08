@@ -6,3 +6,5 @@ To request access, contact one of us:
 - Nikita Sietsema (nrs32@students.calvin.edu)
 - Danile Kuiper (djk45@students.calvin.edu)
 - Jason Prium (jrp27@students.calvin.edu)
+
+## [Go back to our project website](https://nrs32.github.io/TRAIN-GO-SORRY---pages/)
