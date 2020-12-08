@@ -1,0 +1,25 @@
+@import "{{ site.theme }}";
+
+// Hide link to repo
+header #forkme_banner {
+  display: none;
+}
+
+// Hide ASL-Study-Tool title
+header #project_title {
+  display: none;
+}
+
+// Add An ASL Study Tool subtitle
+header::after {
+    content: ' An ASL Study Tool';
+    font-size: 28px;
+    color: white;
+}
+
+// Add TRAIN GO SORRY main title
+header::before {
+    content: 'TRAIN GO SORRY';
+    font-size: 46px;
+    color: white;
+}
