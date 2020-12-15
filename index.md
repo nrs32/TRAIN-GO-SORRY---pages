@@ -9,7 +9,7 @@ This is where TRAIN GO SORRY comes in. TRAIN GO SORRY is a free, receptive Ameri
 
 ## Team
 #### Nikita Sietsema
-TODO: MAKE BETTER? Nikita has 4 years of ASL experience and has been an ASL student herself. She is passionate about ASL and creating a tool to help others improve their signing ability.
+Nikita has 4 years of ASL experience and has been an ASL student herself. She is passionate about ASL and creating a tool to help others improve their signing ability.
 
 #### Daniel Kuiper
 TODO: Blah blah blah, todo
@@ -18,7 +18,6 @@ TODO: Blah blah blah, todo
 TODO: Blah blah blah, todo
 
 #### Special Thanks to:
-TODO: Add more about how Norman contributes?  
 Professor Victor Norman for being our project advisor!  
 Mrs. Kiesha Thomas, an ASL teacher, for reviewing our app and connecting us to test-users.
 
