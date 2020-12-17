@@ -11,7 +11,7 @@ Nikita has 4 years of ASL experience and has been an ASL student herself. She is
 Daniel has no prior experience with ASL but has an interest in building tools to help facilitate learning and creativity.
 
 #### Jason Pruim
-TODO: Blah blah blah, todo
+Jason has minimal experience with ASL, but has a few family members who are quite fluent. As a past avid user of Quizlet, he sees the value in tools to assist learning and drilling language vocab.
 
 #### Special Thanks to:
 Professor Victor Norman for being our project advisor!  
