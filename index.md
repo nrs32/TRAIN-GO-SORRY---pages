@@ -12,7 +12,7 @@ This is where TRAIN GO SORRY comes in. TRAIN GO SORRY is a free, receptive Ameri
 Nikita has 4 years of ASL experience and has been an ASL student herself. She is passionate about ASL and creating a tool to help others improve their signing ability.
 
 #### Daniel Kuiper
-TODO: Blah blah blah, todo
+Daniel has no prior experience with ASL but has an interest in building tools to help facilitate learning and creativity.
 
 #### Jason Pruim
 TODO: Blah blah blah, todo
@@ -33,7 +33,7 @@ To request access, contact one of us:
 TODO: WE NEED SOMETHING ABOUT TESTING HERE
 
 ## Design Norm - Cultural Appropriateness
-Throughout the development of this project, we have been focusing on the design norm of Cultural Appropriateness. In short, Culteral Appropriateness means that "technology should alleviate burdens while still preserving what is good" (From Professor Schuurman’s [“Redemption and Responsible Technology”](https://digitalcollections.dordt.edu/cgi/viewcontent.cgi?article=2949&context=pro_rege), page 8).  
+Throughout the development of this project, we have been focusing on the design norm of Cultural Appropriateness. In short, Cultural Appropriateness means that "technology should alleviate burdens while still preserving what is good" (From Professor Schuurman’s [“Redemption and Responsible Technology”](https://digitalcollections.dordt.edu/cgi/viewcontent.cgi?article=2949&context=pro_rege), page 8).  
 For us, this means that TRAIN GO SORRY should make studying and communicating with ASL easier, without taking away from ASL or Deaf culture, and without taking away from the student's learning success.
 
 ## Additional Materials
