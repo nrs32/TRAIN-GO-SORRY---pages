@@ -22,7 +22,7 @@ Nikita has 4 years of ASL experience and has been an ASL student herself. She is
 #### Jason Pruim
 Jason has minimal experience with ASL, but has a few family members who are quite fluent. As a past avid user of Quizlet, he sees the value in tools to assist learning and drilling language vocab.
 
-#### Special Thanks to:
+## Acknowledgments  
 ##### Dr. Victor Norman:  
 project advisor. Professor Norman is a Computer Science professor at Calvin University in Grand Rapids, Michigan. He supervises TGS to make sure it stays on track and approves the developers' weekly plans. He is also a great resource when the developers have questions about how best to implement something or need other advice.
 
