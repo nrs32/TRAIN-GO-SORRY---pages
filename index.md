@@ -33,7 +33,7 @@ ASL contact. Mrs. Thomas is Nikita’s former ASL teacher. She is currently a se
 reviewers. Ms. DeRegnaucourt and her 2021 ASL students at Northview High School reviewed our app while it was in progress. Their time and feedback allowed us to improve the app for future users.
 
 ##### Datamuse:  
-lexical search service. We use Datamuse in our app to provide most of our word definitions. We also use it to enable us to suggest guesses that are close in spelling or phonetically close to a user's guess so that students are not penalized for poor spelling or typos while studying. You can visit Datamuse here.
+lexical search service. We use Datamuse in our app to provide most of our word definitions. We also use it to enable us to suggest guesses that are close in spelling or phonetically close to a user's guess so that students are not penalized for poor spelling or typos while studying. You can visit Datamuse [here](https://www.datamuse.com/).
 
 ## Visit Our Codebase Repo  
 Our main code repo is private.  
