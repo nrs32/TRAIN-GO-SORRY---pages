@@ -55,7 +55,7 @@ For us, this means that TRAIN GO SORRY should make studying and communicating wi
 - [Visit Calvin University's Department of Computer Science Website](https://computing.calvin.edu/)
 - [Watch an old Demo of TRAIN GO SORRY as of 11.16.2020](https://drive.google.com/file/d/1OKjdZd7fVEyf2_HIDRTdqHVeglfiIdyk/view)
 - [View two short slides from the 12.1.2020 progress update](https://docs.google.com/presentation/d/1HaN_uBQSzQsTQfRhlMdyFjpIerFnVku42m0nG9lSFoE/edit?usp=sharing)
-- [View Nikita's NCWIT Collegiate Award Presentation for TRAIN GO SORRY 1.2.21](https://vimeo.com/496470498)
+- [View Nikita's NCWIT Collegiate Award Presentation for TRAIN GO SORRY (includes a slower demo) 1.2.21](https://vimeo.com/496470498)
 - [View our final presentation slides 4.21.21](https://docs.google.com/presentation/d/1T15ye_sdm0sDpTSfNy3tU3yrTAoEBjq2w5AtQVv7vTM/edit?usp=sharing)
 - [View our final report 4.21.21](https://docs.google.com/document/d/1_fURlDXMrJFg-Cic4C7cXfWYhcJQDL0orK3hBogbvm8/edit?usp=sharing)
 - [Watch our final presentation and demo as of 4.21.21](https://youtu.be/6YA291wuX6o)
