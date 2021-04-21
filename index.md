@@ -1,5 +1,6 @@
-## Visit Our App!
-https://train-go-sorry.com/splash-page
+## View Our Presentation And Visit Our App!
+[View our TRAIN GO SORRY presentation](https://youtu.be/6YA291wuX6o)  
+[Visit TRAIN GO SORRY (train-go-sorry.com)](https://train-go-sorry.com/splash-page)
 
 ## TRAIN GO SORRY Vision
 There are many American Sign Language (ASL) dictionaries and study tools that allow a user to look up a word and see its sign, but there are limited tools for users to identify a sign from a video. This is problematic for learners because any person learning a new language must be able to communicate both expressively and receptively. This means that people must be able to speak/sign the language (expressive), in addition to understanding others when they speak/sign the language (receptive). ASL dictionaries provide videos with the name of the sign already visible, so users are not able to guess what is being signed in order to practice their receptive skills. Without proper receptive learning tools, it is more difficult for a person to learn on their own.
@@ -52,6 +53,9 @@ For us, this means that TRAIN GO SORRY should make studying and communicating wi
 
 ## Additional Materials
 - [Visit Calvin University's Department of Computer Science Website](https://computing.calvin.edu/)
-- [Watch a Demo of TRAIN GO SORRY as of 11.16.2020](https://drive.google.com/file/d/1OKjdZd7fVEyf2_HIDRTdqHVeglfiIdyk/view)
+- [Watch an old Demo of TRAIN GO SORRY as of 11.16.2020](https://drive.google.com/file/d/1OKjdZd7fVEyf2_HIDRTdqHVeglfiIdyk/view)
 - [View two short slides from the 12.1.2020 progress update](https://docs.google.com/presentation/d/1HaN_uBQSzQsTQfRhlMdyFjpIerFnVku42m0nG9lSFoE/edit?usp=sharing)
 - [Try out TRAIN GO SORRY!](https://train-go-sorry.com/splash-page)
+- [Watch our final presentation and demo as of 4.21.21](https://youtu.be/6YA291wuX6o)
+- [View our final presentation slides 4.21.21](https://docs.google.com/presentation/d/1T15ye_sdm0sDpTSfNy3tU3yrTAoEBjq2w5AtQVv7vTM/edit?usp=sharing)
+- [View our final report](https://docs.google.com/document/d/1_fURlDXMrJFg-Cic4C7cXfWYhcJQDL0orK3hBogbvm8/edit?usp=sharing)
