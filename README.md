@@ -1,10 +1,3 @@
 # TRAIN-GO-SORRY
-## Visit our code repo
-Our main code repo is private. 
-You can access it from [this link](https://github.com/nrs32/TRAIN-GO-SORRY).
-To request access, contact one of us: 
-- Nikita Sietsema (nrs32@students.calvin.edu)
-- Danile Kuiper (djk45@students.calvin.edu)
-- Jason Prium (jrp27@students.calvin.edu)
-
-## [Go back to our project website](https://nrs32.github.io/TRAIN-GO-SORRY---pages/)
+## [View out wiki for release info and other cool stuff](https://github.com/nrs32/TRAIN-GO-SORRY---pages/wiki)
+## [View our project website](https://nrs32.github.io/TRAIN-GO-SORRY---pages/)
