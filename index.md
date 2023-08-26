@@ -1,3 +1,5 @@
+View ALL THE STUFF: creation and development process, timeline, in-progress work and app demos, and milestones of TGS at [this Wiki](https://github.com/nrs32/TRAIN-GO-SORRY---pages/wiki) 
+
 ## View Our Presentation And Visit Our App!
 [View our TRAIN GO SORRY presentation](https://youtu.be/6YA291wuX6o)  
 [Visit TRAIN GO SORRY (train-go-sorry.com)](https://train-go-sorry.com/splash-page)
@@ -59,4 +61,5 @@ For us, this means that TRAIN GO SORRY should make studying and communicating wi
 - [View our final presentation slides 4.21.21](https://docs.google.com/presentation/d/1T15ye_sdm0sDpTSfNy3tU3yrTAoEBjq2w5AtQVv7vTM/edit?usp=sharing)
 - [View our final report 4.21.21](https://docs.google.com/document/d/1_fURlDXMrJFg-Cic4C7cXfWYhcJQDL0orK3hBogbvm8/edit?usp=sharing)
 - [Watch our final presentation and demo as of 4.21.21](https://youtu.be/6YA291wuX6o)
+- [In Depth Wiki](https://github.com/nrs32/TRAIN-GO-SORRY---pages/wiki)
 - [Try out TRAIN GO SORRY!](https://train-go-sorry.com/splash-page)
